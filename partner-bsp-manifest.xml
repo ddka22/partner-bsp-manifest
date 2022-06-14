@@ -1,0 +1,63 @@
+<boards>
+  <board>
+    <id>MY-KIT-062S2-43012</id>
+    <category>PSoC&#8482; 6 BSPs</category>
+    <board_uri>https://github.com/ddka22/TARGET_MY-KIT-062S2-43012</board_uri>
+    <chips>
+      <mcu>CY8C624ABZI-S2D44</mcu>
+      <radio>CYW43012C0WKWBG</radio>
+    </chips>
+    <name>MY-KIT-062S2-43012</name>
+    <summary>The MY-KIT-062S2-43012 PSoC&#8482; 6S2 Wi-Fi BT Pioneer Kit is a low-cost hardware platform that enables design and debug of PSoC&#8482; 6 MCUs. It comes with a Murata 1LV Module (CYW43012 Wi-Fi + Bluetooth Combo Chip), industry-leading CAPSENSE&#8482; for touch buttons and slider, on-board debugger/programmer with KitProg3, microSD card interface, 512-Mb Quad-SPI NOR flash, PDM-PCM microphone interface.</summary>
+    <prov_capabilities>adc anycloud arduino bt capsense capsense_button capsense_linear_slider cat1 comp cy8ckit_062s2_43012 cyw43012 cyw43xxx dma flash_2048k fram hal i2c i2s j2 led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pdm pot psoc6 qspi rgb_led rtc sdhc smart_io spi sram_1024k std_crypto switch uart usb_device usb_host wifi</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div>
+        <ul>
+        <li>Support of up to 2MB Flash and 1MB SRAM</li>
+        <li>Dedicated SDHC to interface with WICED wireless devices.</li>
+        <li>Delivers dual-cores, with a 150-MHz Arm Cortex-M4 as the primary application processor and a 100-MHz Arm Cortex-M0+ as the secondary processor for low-power operations.</li>
+        <li>Supports Full-Speed USB, capacitive-sensing with CAPSENSE&#8482;, a PDM-PCM digital microphone interface, a Quad-SPI interface, 13 serial communication blocks, 7 programmable analog blocks, and 56 programmable digital blocks.</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div>
+        <ul>
+        <li>PSoC&#8482; 6S2 Wi-Fi BT Pioneer Board</li>
+        <li>USB Type-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        <li>Four jumper wires (4 inches each)</li>
+        <li>Two jumper wires (5 inches each)</li>
+        </ul>
+      ]]></description>
+    <documentation_url>http://www.cypress.com/CY8CKIT-062S2-43012</documentation_url>
+    <versions>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>1.2.1 release</num>
+        <commit>release-v1.2.1</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>1.2.0 release</num>
+        <commit>release-v1.2.0</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </board>
+</boards>
