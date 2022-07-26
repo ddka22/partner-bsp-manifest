@@ -31,6 +31,10 @@
     <documentation_url>http://www.cypress.com/CY8CKIT-062S2-43012</documentation_url>
     <versions>
       <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
+        <num>Latest v1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
